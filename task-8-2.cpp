@@ -45,7 +45,7 @@ public:
     int getHealth() { return health; } //function to get current health
 };
 
-//the 2 characters
+//the 2 characters fighting 
 class OptimusPrime : public Character {
 public:
     OptimusPrime() : Character("Optimus Prime") {

@@ -2,7 +2,7 @@
 
 This project is a **C++ OOP simulation** of a fight between **Optimus Prime** and **Megatron**.  
 
-Both warriors take turns attacking with different weapons, each with unique **damage** and **accuracy**. The fight continues until one of them falls.
+Both warriors take turns attacking with different weapons, each with unique **damage** and **accuracy**. The fight continues until one of them falls and loses the fight.
 
 ---
 
